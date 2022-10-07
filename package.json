@@ -1,0 +1,15 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "description": "Personal shell scripts",
+  "main": "index.js",
+  "repository": "git@github.com:thmsbkkr/bin.git",
+  "author": "Thomas Bakker <thomas@gorilla.co>",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
