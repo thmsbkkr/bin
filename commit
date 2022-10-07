@@ -11,3 +11,6 @@ DESCRIPTION=$(gum write --placeholder "Details of this change (CTRL+D to finish)
 
 # Commit these changes
 gum confirm "Commit changes?" && git commit -m "$SUMMARY" -m "$DESCRIPTION"
+
+
+// Hello world
